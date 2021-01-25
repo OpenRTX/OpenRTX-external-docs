@@ -1,4 +1,4 @@
-# OpenRTX_info_collection
+# OpenRTX-external-docs
 
 Welcome to the external documentation repository of the [OpenRTX project!](https://github.com/OpenRTX/OpenRTX)
 
